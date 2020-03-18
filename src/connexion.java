@@ -21,7 +21,7 @@ public class connexion {
 		Display display = Display.getDefault();
 		Shell shlAzJunior = new Shell();
 		shlAzJunior.setSize(600, 400);
-		shlAzJunior.setText("Az Junior");
+		shlAzJunior.setText("Connexion");
 		
 		Label lblId = new Label(shlAzJunior, SWT.NONE);
 		lblId.setBounds(122, 95, 96, 25);

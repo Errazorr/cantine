@@ -107,7 +107,7 @@ public class cantine_prof {
 		btnTrierParClasse.setText("Trier par classe");
 		
 		Label lblTotalDuMois = new Label(shlCantineprof, SWT.NONE);
-		lblTotalDuMois.setBounds(693, 546, 209, 52);
+		lblTotalDuMois.setBounds(693, 583, 209, 15);
 		lblTotalDuMois.setText("Total du mois :");
 
 	}
