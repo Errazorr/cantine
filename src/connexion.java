@@ -16,6 +16,7 @@ public class connexion {
 	 * Launch the application.
 	 * @param args
 	 */
+	
 	public static void main(String[] args) {
 		Display display = Display.getDefault();
 		Shell shlAzJunior = new Shell();
